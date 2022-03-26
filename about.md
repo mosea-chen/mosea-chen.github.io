@@ -6,4 +6,4 @@ title: About
 # About page
 
 this page tells you a little bit about me.
-![img01.png](/assets/images/img01.png "jekyll")
+![alt img01.png](/assets/images/img01.png "jekyll")
