@@ -35,11 +35,12 @@ plugins:
   - jekyll-feed
 
 defaults:
-  -
-    scope:
-	path:"_post"
-    values:
-	layout: "post"
+	-
+		scope:
+			path: ""
+			type: "post"
+		values:
+			layout: "post"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
