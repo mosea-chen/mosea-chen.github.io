@@ -1,3 +1,8 @@
 theme: jekyll-theme-minimal
 title: Mosea's homepage
 description: Bookmark this to keep an eye on my project updates!
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
