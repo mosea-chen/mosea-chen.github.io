@@ -7,3 +7,4 @@ _site/
 .bundle/
 vendor/
 .github
+.DS_Store
