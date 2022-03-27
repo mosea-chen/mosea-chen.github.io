@@ -6,5 +6,5 @@ _site/
 
 .bundle/
 vendor/
-.github
+.github/
 .DS_Store
