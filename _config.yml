@@ -40,15 +40,8 @@ minima:
     # youtube_channel: UChASrP18ZKeWic0wA3E08Pg
     # youtube_channel_name: 眼见为识
 
-pagination:
-  enabled: true
-  per_page: 6
-  offset: 2
-  permalink: '/page/:num/'
-  # title: ':title - page :num of :max'
-  limit: 0
-  sort_field: 'date'
-  sort_reverse: true
+paginate: 6
+
 
 plugins:
   - jekyll-feed
