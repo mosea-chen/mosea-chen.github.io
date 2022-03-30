@@ -40,7 +40,15 @@ minima:
     # youtube_channel: UChASrP18ZKeWic0wA3E08Pg
     # youtube_channel_name: 眼见为识
 
-paginate: 6
+# Pagination Settings
+pagination:
+  enabled: true
+  per_page: 3
+  permalink: '/page/:num/'
+  title: ' - page :num'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
 
 
 plugins:
