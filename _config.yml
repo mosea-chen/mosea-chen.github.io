@@ -30,7 +30,7 @@ url: "http://blog.121987.xyz" # the base hostname & protocol for your site, e.g.
 github_username:  mosea-chen
 
 # Build settings
-markdown: kramdown
+# markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
